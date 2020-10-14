@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: mybatis
+Build-Tool: Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba288
+ 3f)
+Implementation-Version: 3.5.6
+Specification-Vendor: MyBatis.org
+Specification-Title: mybatis
+Implementation-Vendor: MyBatis.org
+Implementation-Build-Date: 2020-10-06 20:40:21+0000
+X-Compile-Target-JDK: 1.8
+Build-Os: Mac OS X (10.15.6; x86_64)
+X-Compile-Source-JDK: 1.8
+Created-By: Maven Source Plugin 3.2.1
+Build-Jdk: 1.8.0_251 (Oracle Corporation)
+Specification-Version: 3.5
+
